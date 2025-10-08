@@ -1,0 +1,2 @@
+/* small loader to import public styles in React build */
+@import url('/styles.css');
